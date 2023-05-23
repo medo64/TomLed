@@ -14,9 +14,9 @@
 
 ## Specifications
 
-Board size: 46.0 x 17.0 mm ~ 1.3 sqin
-Voltage: 5 V
-Current: 1.5A
+Board size: 46.0 x 21.0 mm ~ 1.5 sqin
+Voltage: 5 V
+Current: 3 A
 
 
 ## Current Consumption
